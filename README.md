@@ -1,4 +1,4 @@
-# a-Transformer-based-multimodal-machine-learning-algorithm
+# a-Transformer-based-multimodal-machine-learning-algorithm with cascade self-attention
 Emotion recognition and sentiment analysis for CMU-MOSEI dataset
 The original repo is from ["A Transformer-based joint-encoding for Emotion Recognition and Sentiment Analysis"](https://github.com/jbdel/MOSEI_UMONS)
 
